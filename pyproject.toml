@@ -1,0 +1,6 @@
+[tool.poetry]
+name = "power-prophet"
+version = "0.1.0"
+description = "Collection of thoughts about power generation/consumption forecasts"
+authors = ["markkvdb <github@mvanderbroek.com>"]
+readme = "README.md"

@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "power-prophet"
-  site-url: "https://markkvdb.github.io/power-prophet"
-  description: "Collection of notebooks related to electricity forecasting"
-  repo-branch: main
-  repo-url: "https://github.com/markkvdb/power-prophet"
